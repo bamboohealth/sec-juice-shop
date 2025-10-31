@@ -2,3 +2,4 @@
 # controls how dependency changes are reported in pull requests
 comment_summary_in_pr: 'always'
 fail_on_severity: 'critical'
+#fail_on_severity: 'high'
